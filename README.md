@@ -1,0 +1,2 @@
+# public
+trying static content
